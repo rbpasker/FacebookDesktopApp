@@ -16,6 +16,7 @@ Some of the Design Patterns implemented in the project:
 5. Iterator
 
 Key features:
+
 1.	Status search:  The feature gives the user the ability to search a text in his friend's status posts. 
   The feature give the Facebook Application user 2 options : 
   a.	Search text in all user friends. 
