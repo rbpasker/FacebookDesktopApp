@@ -3,7 +3,7 @@ FacebookDesktopApp
 
 Facebook Desktop Application
 
-The Facebook Desktop Application is a project created in 2012 during a Design Patterns class I attended. The project was created by my friend Oriel Blezer and myself.
+The Facebook Desktop Application is a project created in 2012 during a Design Patterns class I attended. The project was created by my friend Oriel Belzer and myself.
 
 The main focus in this project is using design patterns describe thier class diagram and use cases.
 
