@@ -1,8 +1,4 @@
-﻿// -----------------------------------------------------------------------
-// <copyright file="UserWithBirthday.cs" company="">
-// TODO: Update copyright text.
-// </copyright>
-// -----------------------------------------------------------------------
+﻿
 
 namespace FacebookApp
 {
